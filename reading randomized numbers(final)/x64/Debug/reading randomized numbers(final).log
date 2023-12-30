@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\cheng\OneDrive\Desktop\C++\reading randomized numbers(final)\reading randomized numbers(final)\FileName.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  reading randomized numbers(final).vcxproj -> C:\Users\cheng\OneDrive\Desktop\C++\reading randomized numbers(final)\x64\Debug\reading randomized numbers(final).exe
